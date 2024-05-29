@@ -7,7 +7,11 @@
 <td valign="top" width="33%">
 
 ### 我的csdn博客
-Failed!
+- [             杂七杂八(12)：Bilibili视频缓存 m4s音视频合并 shell脚本           ](https://blog.csdn.net/Palmer9/article/details/129140540)
+- [             【移动安全-0】Mac无坑配置MobSF与Pycharm调试           ](https://blog.csdn.net/Palmer9/article/details/128545603)
+- [             re学习笔记（101）i春秋 全国大学生信息安全竞赛 计时挑战           ](https://blog.csdn.net/Palmer9/article/details/125343934)
+- [             踩坑及问题解决记录贴合集 不定时更新           ](https://blog.csdn.net/Palmer9/article/details/125274623)
+- [             Unidbg打Jar包方式           ](https://blog.csdn.net/Palmer9/article/details/125220599)
 - ...
 - [查看更多](https://blog.csdn.net/Palmer9)
 
